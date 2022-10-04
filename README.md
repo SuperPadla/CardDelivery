@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/5beb3are1wqi9ft8?svg=true)](https://ci.appveyor.com/project/SuperPadla/carddelivery)
